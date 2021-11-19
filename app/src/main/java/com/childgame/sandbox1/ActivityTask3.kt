@@ -54,6 +54,8 @@ class ActivityTask3 : AppCompatActivity() {
 
             falseButton1.setImageResource(R.drawable.lemon_black)
 
+            taskView.setImageResource(R.drawable.cherry_black)
+
         }
 
         val falseButton2: ImageButton = findViewById(R.id.button_4)

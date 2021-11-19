@@ -54,6 +54,8 @@ class ActivityTask4 : AppCompatActivity() {
 
             falseButton1.setImageResource(R.drawable.lemon_black)
 
+            taskView.setImageResource(R.drawable.banan_black)
+
         }
 
         val falseButton2: ImageButton = findViewById(R.id.button_4)
@@ -62,7 +64,7 @@ class ActivityTask4 : AppCompatActivity() {
 
             falseButton2.setImageResource(R.drawable.strawberry_black)
 
-            taskView.setImageResource(R.drawable.cherry_black)
+            taskView.setImageResource(R.drawable.banan_black)
 
         }
 
@@ -72,7 +74,7 @@ class ActivityTask4 : AppCompatActivity() {
 
             falseButton3.setImageResource(R.drawable.apple_black)
 
-            taskView.setImageResource(R.drawable.cherry_black)
+            taskView.setImageResource(R.drawable.banan_black)
 
         }
 
